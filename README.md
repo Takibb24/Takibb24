@@ -58,7 +58,7 @@ Independent University, Bangladesh (IUB)
 ## 💼 Experience
 
 * **Jr. AI/ML Engineer — Brain System Ltd** *(2025-Present)*
-* **IT Intern — East West Property Development Ltd(An Enterprise Of Bashundhara Group)**
+* **Intern — East West Property Development Ltd(An Enterprise Of Bashundhara Group)**
 
 ---
 
