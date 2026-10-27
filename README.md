@@ -1,77 +1,40 @@
-## 👋 Hi, I'm **Abdullah Al Takib**
+# 👋 Hi, I'm Abdullah Al Takib
 
-### 🚀 Junior AI/ML Engineer | Deep Learning | LLM Apps | Computer Vision
+### 🚀 Jr. AI/ML Engineer | LLM Applications | NLP | Computer Vision
 
-I build intelligent systems powered by **machine learning, deep learning, and modern LLM workflows**.
-My work focuses on automation, face recognition systems, chatbots, and efficient data processing pipelines.
+I'm an AI/ML Engineer passionate about building **intelligent, scalable, and practical AI solutions**. My interests include LLM-powered applications, RAG systems, AI agents, natural language processing, computer vision, and predictive analytics.
 
-💡 Passionate about turning data + AI into real-world impact and scalable applications.
+I enjoy exploring emerging AI technologies, solving real-world problems, and continuously improving my skills in AI engineering and deployment.
 
----
+### 🧠 Skills & Technologies
 
-## 🧠 Skills & Tech Stack
+- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Predictive Analytics
+- **LLMs & AI Agents:** LangGraph, LangChain, RAG, LLM Integration
+- **NLP & Data:** NLP, Pandas, NumPy, Data Processing
+- **Computer Vision:** OpenCV, EdgeFace, OCR, Face Recognition
+- **Backend & APIs:** Python, FastAPI, Flask, REST APIs
+- **Tools:** Git, GitHub, ChromaDB, FAISS
 
-### 🚀 Machine Learning & AI
+### 🎯 What I'm Passionate About
 
-* Regression, Random Forest, XGBoost
-* CNN, LSTM, ANN
-* Feature Engineering, Model Tuning
+- Building AI-powered applications and intelligent agents
+- Exploring LLMs, RAG pipelines, and NLP solutions
+- Developing computer vision and automation systems
+- Turning data into meaningful insights through machine learning
+- Learning new technologies and creating impactful solutions
 
-### 🤖 LLM & AI Agents
+### 🎓 Education
 
-* LangChain, LangGraph
-* RAG Pipelines
-* OpenAI API
-
-### 🖼️ Computer Vision
-
-* Face Recognition
-* EdgeFace, OpenCV
-
-### 🧰 Frameworks & Tools
-
-* Python, FastAPI, Flask
-* TensorFlow, PyTorch, Scikit-Learn
-* Pandas, NumPy, RapidFuzz
-* PDFPlumber, PyMuPDF
-
-### ☁️ Dev & Deployment
-
-* Git / GitHub
-* API creation & deployment
-
----
-
-
-
-## 🎓 Education
-
-**B.Sc. in Computer Science & Engineering**
+**B.Sc. in Computer Science & Engineering**  
 Independent University, Bangladesh (IUB)
-📅 2020-2024
+
+### 🔗 Connect With Me
+
+- 📧 Email: [takibabd25@gmail.com](mailto:takibabd25@gmail.com)
+- 💼 LinkedIn: [Abdullah Al Takib](https://www.linkedin.com/in/abdullah-al-takib-75b053250/)
+- 🧑‍💻 GitHub: [Takibb24](https://github.com/Takibb24)
+- 📍 Dhaka, Bangladesh
 
 ---
 
-
----
-
-## 💼 Experience
-
-* **Jr. AI/ML Engineer — Brain System Ltd** *(2025-Present)*
-* **Intern — East West Property Development Ltd(An Enterprise Of Bashundhara Group)**
-
----
-
-## 🔗 Connect with me
-
-| Social       | Link                                                                                                                 |
-| ------------ | -------------------------------------------------------------------------------------------------------------------- |
-| 📧 Email     | [takibabd25@gmail.com](mailto:takibabd25@gmail.com)                                                                  |
-| 💼 LinkedIn  | [https://www.linkedin.com/in/abdullah-al-takib-75b053250/](https://www.linkedin.com/in/abdullah-al-takib-75b053250/) |
-| 🧑‍💻 GitHub | [https://github.com/Takibb24](https://github.com/Takibb24)                                                           |
-| 📍 Location  | Dhaka, Bangladesh                                                                                                    |
-
----
-
-
-
+*"Building intelligent solutions, one model at a time."* 🚀
