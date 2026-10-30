@@ -26,7 +26,7 @@ I enjoy exploring emerging AI technologies, solving real-world problems, and con
  🎓 Education
 
 **B.Sc. in Computer Science & Engineering**  
-Independent University, Bangladesh (IUB)
+Independent University,Bangladesh (IUB)
 
  🔗 Connect With Me
 
